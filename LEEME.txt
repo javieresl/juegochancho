@@ -1,0 +1,12 @@
+SALTO CHANCHO - Instalación en iPhone (uso sin conexión)
+
+1. Sube TODOS los archivos de esta carpeta a un hosting con HTTPS
+   (GitHub Pages o Netlify). El modo sin conexión no funciona si se abre
+   el archivo directamente desde el teléfono.
+2. En el iPhone, abre la URL en Safari > Compartir > Agregar a inicio.
+3. Abre el juego UNA VEZ desde el ícono, con internet, y espera a ver
+   el mensaje "Listo para jugar sin conexión".
+4. Prueba en modo avión. Desde ahí no necesita internet.
+
+Para publicar una versión nueva: cambia 'salto-chancho-v1' por
+'salto-chancho-v2' en sw.js y vuelve a subir los archivos.
